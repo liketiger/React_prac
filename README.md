@@ -2,6 +2,19 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Web App Details
+- It was designed to practice React.js
+- You can add and delete cards that contains title and content
+
+![스크린샷 2021-08-11 오후 12 28 00](https://user-images.githubusercontent.com/50165633/128965072-f3346e5d-eb95-478e-b1ef-a983103a0913.png)
+
+## Error Report
+The error called "TypeError Cannot read property 'map' of undefined" occured.\
+Detail - An error occured when you press delete button of a card.\
+Cause - When you delete card notes array becomes undefined.\
+Solution - There were many solutions, however by adding return before filter function solved the problem.\
+Notes array became undefined because there were no return from filter fucntion.
+
 ## Available Scripts
 
 In the project directory, you can run:
