@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Web App Details
 - It was designed to practice React.js
-- You can add and delete cards that contains title and content
+- You can add and delete cards that each contains title and content
 
 ![스크린샷 2021-08-11 오후 12 28 00](https://user-images.githubusercontent.com/50165633/128965072-f3346e5d-eb95-478e-b1ef-a983103a0913.png)
 
